@@ -1,2 +1,3 @@
-# mgrml
-Repository of ML libraries and utilities for Gentoo Linux
+# My Gentoo Repository for ML (mgrml)
+
+Contains some ML libraries and utilities such as Tensorflow, Keras, etc.
